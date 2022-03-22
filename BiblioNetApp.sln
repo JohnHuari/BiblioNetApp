@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioNetApp", "BiblioNetApp\BiblioNetApp.csproj", "{9A3B08BE-3A66-409B-8F11-34A9A2108A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A3B08BE-3A66-409B-8F11-34A9A2108A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3B08BE-3A66-409B-8F11-34A9A2108A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3B08BE-3A66-409B-8F11-34A9A2108A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3B08BE-3A66-409B-8F11-34A9A2108A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CEA9BCA-2412-4EE4-937E-57D25ED985AA}
+	EndGlobalSection
+EndGlobal
